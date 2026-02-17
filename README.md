@@ -24,6 +24,7 @@ A Minecraft **1.21.8**->**1.21.11** Ghost Client, designed for legit gameplay an
 ### Combat
 - AimAssist
 - AttributeSwap
+- Backtrack
 - Hitboxes
 - Reach
 - ShieldDisable
@@ -42,6 +43,8 @@ A Minecraft **1.21.8**->**1.21.11** Ghost Client, designed for legit gameplay an
 - ThrowPot
 ### Visuals
 - ESP (WIP)
+- Tracers
+- ArrayList
 
 ## Info
 The project shadow includes ImGui to draw it's menu and (future) visual modules, has a robust self destruct feature that replaces the mod file and cleans all traces, and has a built in SOCKS proxy system for an in-game IP change.
