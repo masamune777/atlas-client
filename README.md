@@ -1,3 +1,5 @@
+This project is currently closed source and private for the time being.
+
 # Atlas
 A Minecraft **1.21.8**->**1.21.11** Ghost Client, designed for legit gameplay and staying hidden.
 
