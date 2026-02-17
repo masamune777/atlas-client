@@ -3,7 +3,7 @@ This project is currently closed source and private for the time being.
 # Atlas
 A Minecraft **1.21.8**->**1.21.11** Ghost Client, designed for legit gameplay and staying hidden.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5b4d1ce3-7f66-4cb4-b567-b1c1621f84e3" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ea088e51-8cf4-4601-997b-4fbd2b6e5729" />
 
 ## Features
 ### Config/Friend Managers
